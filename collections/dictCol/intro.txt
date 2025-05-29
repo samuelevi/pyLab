@@ -1,0 +1,13 @@
+A dictionary is a mapping collection with its items in key/ value
+
+Properties of dictionary
+1. Its values are mutable via its keys
+2. its keys are immutable
+3. it is not sorted
+4. Its keys are unique
+5. its items are in key/value pairs
+6. it is mapping collection (not indexed)
+
+dictionary creation
+1. {}
+2. dict{}

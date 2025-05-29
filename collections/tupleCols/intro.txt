@@ -1,0 +1,12 @@
+A tuple is an immutable ordered collection
+
+Properties of a tuple
+1. it is immutable
+2. it is ordered
+3. it is not sorted
+4. its items are not unique
+5. it can take any type
+
+Tuple creation
+1. () or comma seperated
+2. tuple()

@@ -1,0 +1,13 @@
+String :: String is an immutable sequential collection of characters either in single quotes or double quotes
+properties of String
+1. it is an immutable collection
+2. it is ordered
+3. it is indexed
+4. it is not sorted
+###Creating string objects
+1. Str()
+2. 'Nigeria'
+3. "congratulation"
+### Multiline strings ###
+4. """ I like my Life """
+5. ''' Python is Easy to learn '''

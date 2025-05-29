@@ -1,0 +1,11 @@
+A list is a mutable ordered collection
+PROPERTIES OF A list
+1. It is mutable
+2. It is ordered
+3. It is not sorted
+4. it's items are not unique
+5. it can take any data type
+
+List Creation
+1. []
+2. list()

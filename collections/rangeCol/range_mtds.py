@@ -1,0 +1,6 @@
+data = range(0, 11)
+print(data.count(5))
+print(data.index(10))
+print(data.start)
+print(data.stop)
+print(data.step)

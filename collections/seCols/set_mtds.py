@@ -1,0 +1,12 @@
+user_names : set = {'Paul', 'Dan', 'Peter', 'Matt', 'Joy', 'James'}
+user_names.add('Peace')
+user_names.update(['Bola', 'Daniel', 'Chinwe'])
+pop_element = user_names.pop()
+user_names.remove('Dan')
+user_names.discard('Daniel')
+new_user_names = user_names.copy()
+print(new_user_names)
+new_user_names.clear()
+print(new_user_names)
+print(user_names)
+print(type(user_names))

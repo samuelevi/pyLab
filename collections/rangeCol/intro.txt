@@ -1,0 +1,6 @@
+Range :: Range is an immutable collection for integer values
+properties of Range
+1. it is an immutable collection
+2. it is ordered
+3. it is indexed
+4. it can only generate integer values

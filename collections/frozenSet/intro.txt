@@ -1,0 +1,9 @@
+A frozen set is immutable, unordered, unique collecti
+
+properties
+1. it is immutable
+2. it is unordered
+3. it is not sorted
+4. its items are unique
+5. it can take any type
+6. it is hashed collection
